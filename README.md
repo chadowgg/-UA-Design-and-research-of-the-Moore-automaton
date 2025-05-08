@@ -27,3 +27,7 @@ h₉ = 0, h₆ = 1, h₅ = 0, h₄ = 1, h₃ = 0, h₂ = 0, h₁ = 1
 
 ![](GSA-of-Moore's-structural-automaton.jpg)
 
+**Рисинок 11.2. Граф автомата Мура**
+
+![](Moore-Automaton-Graph.jpg)
+
