@@ -1,0 +1,1 @@
+# -UA-Design-and-research-of-the-Moore-automaton
